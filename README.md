@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Dior Olimov
+> # Dior Olimov
 
 👩‍💻 About Me
 
@@ -31,6 +31,7 @@ I work across the full stack — from frontend design to backend logic and WordP
 - **WordPress:** Custom themes & plugins, CPT & ACF, admin panel flexibility, SEO & performance optimization.
 
 ---
+### Socials
 <p>
   <a href="https://www.linkedin.com/in/diorsolutions/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -53,7 +54,7 @@ I work across the full stack — from frontend design to backend logic and WordP
 
 ### ⚙️ Backend & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker,linux,nginx" height="50"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,nodejs,nestjs,express,docker,linux,nginx" height="50"/>
 </p>
 
 ### 🗄 Databases
