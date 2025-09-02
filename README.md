@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there, let's see my quick informations 👋
 
 <!--
 **diorsolutions/diorsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,30 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
-# 👨‍💻 Firdavs Normurodov
+# Dior Olimov
 
-🚀 About Me
+👩‍💻 About Me
 
-Hi! I'm **Firdavs Normurodov**, a **Full Stack Developer**.  
-I specialize in building modern, efficient, and visually appealing **web applications**.  
+Hi! I'm Dior Olimov, a Full Stack Developer passionate about creating fast, modern, and user-friendly digital solutions.
+I work across the full stack — from frontend design to backend logic and WordPress customization.
 
-- ⚡ I create **Web Apps and Websites**  
-- 🎨 I design intuitive and modern **UI/UX interfaces**  
-- ☁️ I securely deploy projects using **Linux, Docker, and Cloud solutions**  
-- 🧠 I’m passionate about **Linux and Artificial Intelligence**  
+## 💻 Skills & Expertise  
+
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS.  
+- **UI/UX Design:** Figma & Canva, building scalable and pixel-perfect interfaces.  
+- **Backend:** Node.js & Express.js, RESTful APIs, Linux server management.  
+- **WordPress:** Custom themes & plugins, CPT & ACF, admin panel flexibility, SEO & performance optimization.
 
 ---
 <p>
-  <a href="https://www.linkedin.com/in/firdavs-normurodov-667a85271/">
+  <a href="https://www.linkedin.com/in/diorsolutions/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="https://t.me/firdavs2407">
-    <img src="https://skillicons.dev/icons?i=telegram" height="50"/>
-  </a>
-  <a href="https://www.instagram.com/firdavs_flow">
+  <a href="https://www.instagram.com/diorsolutions">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
-  <a href="https://firdavs-developer.uz">
+  <a href="https://diorsolutions.site">
     <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
   </a>
 </p>
@@ -49,7 +48,7 @@ I specialize in building modern, efficient, and visually appealing **web applica
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite,redux" height="50"/>
 </p>
 
 ### ⚙️ Backend & DevOps
@@ -59,12 +58,12 @@ I specialize in building modern, efficient, and visually appealing **web applica
 
 ### 🗄 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,mariadb" height="50"/>
 </p>
 
 ### 🔧 Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,graphql,c,python,pnpm" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,graphql,pnpm" height="50"/>
 </p>
 
 ---
@@ -72,6 +71,6 @@ I specialize in building modern, efficient, and visually appealing **web applica
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsdev07&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diorsolutions&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diorsolutions&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00" height="180"/>
 </p>
