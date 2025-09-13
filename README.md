@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dior Olimov  
+# 👋😉 Hi, I'm Dior Olimov  
 
 🚀 **Full Stack Developer | UI/UX Enthusiast | WordPress Customizer**  
 
