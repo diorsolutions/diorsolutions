@@ -54,33 +54,45 @@ Feel free to reach out if you want to collaborate or just chat tech!
 
 ---
 
-## 🛠 Technologies  
+### 🛠️ Languages & Tools
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite,redux" height="45"/>
-</p>
+<table align="start">
 
-### ⚙️ Backend & DevOps  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,nodejs,nestjs,express,docker,linux,nginx" height="45"/>
-</p>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=atom" width="48"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
+  </tr>
 
-### 🗄 Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,mariadb" height="45"/>
-</p>
-
-### 🔧 Tools & Others  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,graphql,pnpm" height="45"/>
-</p>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux/Unix</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
+  </tr>
+  
+</table>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diorsolutions&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diorsolutions&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00" height="180"/>
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=diorsolutions&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diorsolutions&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
 </p>
+
+---
