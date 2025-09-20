@@ -1,6 +1,6 @@
 # 👋😉 Hi, I'm Dior Olimov  
 
-🚀 **Full Stack Developer | UI/UX Enthusiast | WordPress Customizer**  
+ **Full Stack Developer | UI/UX Enthusiast | WordPress Customizer**  
 
 I build fast, modern, and user-friendly digital solutions.  
 From sleek frontends to robust backends, I love turning ideas into scalable products.  
