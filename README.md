@@ -62,7 +62,7 @@ Feel free to reach out if you want to collaborate or just chat tech!
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=atom" width="48"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=atom" width="48"/><br/>R.Native</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
